@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-work-calculator/static/css/main.2bc33c6b.css",
+    "main.js": "/home-work-calculator/static/js/main.82ad577d.js",
+    "index.html": "/home-work-calculator/index.html",
+    "main.2bc33c6b.css.map": "/home-work-calculator/static/css/main.2bc33c6b.css.map",
+    "main.82ad577d.js.map": "/home-work-calculator/static/js/main.82ad577d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc33c6b.css",
+    "static/js/main.82ad577d.js"
+  ]
+}
